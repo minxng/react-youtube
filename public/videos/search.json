@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "KJaF0_8ioyxQlvUBPj4SfxTuV7U",
+  "etag": "tPOnOU0APHiMXJPN23NA_n5VGNw",
   "nextPageToken": "CBkQAA",
   "regionCode": "KR",
   "pageInfo": {
@@ -10,852 +10,846 @@
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "sLCOefK0WLy2mPq9tumkpnNOjVA",
+      "etag": "U3kVUEEs1GkcfxB6P9Xud0VR12E",
       "id": {
-        "kind": "youtube#video",
-        "videoId": "OTWYsXF99iY"
+        "kind": "youtube#channel",
+        "channelId": "UCfkXDY7vwkcJ8ddFGz8KusA"
       },
       "snippet": {
-        "publishedAt": "2022-09-24T11:30:05Z",
-        "channelId": "UCg-p3lQIqmhh7gHpyaOmOiQ",
-        "title": "British Highschoolers try School Lunch in Korea!!",
-        "description": "While visiting Korea and having the time of their lives, we also wanted to give the boys an experience of what the lives of High ...",
+        "publishedAt": "2012-11-16T08:20:35Z",
+        "channelId": "UCfkXDY7vwkcJ8ddFGz8KusA",
+        "title": "SEVENTEEN",
+        "description": "SEVENTEEN Official Youtube #세븐틴 공식 유튜브.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/default.jpg",
-            "width": 120,
-            "height": 90
+            "url": "https://yt3.ggpht.com/J8RX-UOMRtv5ihld0IAO6IRTACN7AfE0s9mDp-Cl0ZqnYOSNBx8qg0aB1iFv6CzpXi5gCpyIhOM=s88-c-k-c0xffffffff-no-rj-mo"
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
+            "url": "https://yt3.ggpht.com/J8RX-UOMRtv5ihld0IAO6IRTACN7AfE0s9mDp-Cl0ZqnYOSNBx8qg0aB1iFv6CzpXi5gCpyIhOM=s240-c-k-c0xffffffff-no-rj-mo"
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+            "url": "https://yt3.ggpht.com/J8RX-UOMRtv5ihld0IAO6IRTACN7AfE0s9mDp-Cl0ZqnYOSNBx8qg0aB1iFv6CzpXi5gCpyIhOM=s800-c-k-c0xffffffff-no-rj-mo"
           }
         },
-        "channelTitle": "영국남자 Korean Englishman",
+        "channelTitle": "SEVENTEEN",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T11:30:05Z"
+        "publishTime": "2012-11-16T08:20:35Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "JXvNUyqCr1dsDul2c9Z1oJhO-hQ",
+      "etag": "sHpG9UxEYpXujrTqlr9ZM91wn3I",
       "id": {
         "kind": "youtube#video",
-        "videoId": "xNkMbGrUdqU"
+        "videoId": "uEgjPvWskJc"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T14:38:06Z",
-        "channelId": "UCpjOmwiy88a9EV3Rv8ukJgw",
-        "title": "대한민국 VS 코스타리카 : 하나은행 초청 축구국가대표팀 친선경기 하이라이트 - 2022.09.23",
-        "description": "대한민국 VS 코스타리카 : 하나은행 초청 축구국가대표팀 친선경기 하이라이트 - 2022.09.23 #대한축구협회 공식 채널 대한민국 축구 ...",
+        "publishedAt": "2024-07-17T11:58:08Z",
+        "channelId": "UCfkXDY7vwkcJ8ddFGz8KusA",
+        "title": "[GOING SEVENTEEN] EP.108 반장 선거 #2 (Class President Election #2)",
+        "description": "[GOING SEVENTEEN] EP.108 반장 선거 #2 (Class President Election #2) #SEVENTEEN #세븐틴 #GOING_SVT #고잉세븐틴.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/default.jpg",
+            "url": "https://i.ytimg.com/vi/uEgjPvWskJc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uEgjPvWskJc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uEgjPvWskJc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "KFATV_대한민국 축구 국가대표팀",
+        "channelTitle": "SEVENTEEN",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T14:38:06Z"
+        "publishTime": "2024-07-17T11:58:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "yteWjK0XHj2lht_OqEfGI3-pq00",
+      "etag": "RdGttJcJMc6ZV-JyxV7faXyChlY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "IrRFh1dLRQM"
+        "videoId": "ThI0pBAbFnk"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T13:40:20Z",
-        "channelId": "UCjn-VbcIkAeXQKCmLJV8YwQ",
-        "title": "코스타리카전 하이라이트 | 2022 축구 국가대표 평가전 대한민국 vs 코스타리카 하이라이트 | 디지털 독점 생중계 | 쿠팡플레이 | 쿠팡",
-        "description": "대한민국 2 - 2 코스타리카 2022 축구 국가대표 평가전 하이라이트 더 보고 싶다면? 지금 쿠팡플레이에서 확인하기!",
+        "publishedAt": "2024-04-29T09:00:00Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "SEVENTEEN (세븐틴) &#39;MAESTRO&#39; Official MV",
+        "description": "SEVENTEEN (세븐틴) 'MAESTRO' Official MV Credit: Producer｜HAN SUNGSOO Head of Production｜KIM DAUN Creative ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/default.jpg",
+            "url": "https://i.ytimg.com/vi/ThI0pBAbFnk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ThI0pBAbFnk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ThI0pBAbFnk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "쿠팡플레이 Coupang Play",
+        "channelTitle": "HYBE LABELS",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:40:20Z"
+        "publishTime": "2024-04-29T09:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "BIEhp-00sfG0HabrdNAj83L5bYM",
+      "etag": "CtWr-nFJi_qZXf_yZ4d1hKmnoRs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "mPq9PAZM43M"
+        "videoId": "TULYcfiPuo0"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T13:57:34Z",
-        "channelId": "UCY_WNRa7H0P420fJkOFovtQ",
-        "title": "South Korea vs Costa Rica 2-2 ( Friendlies ) 23/09/2022",
-        "description": "South Korea vs Costa Rica 2-2 ( Friendlies ) 23/09/2022 1-0 H. Hee-chan 28' 2-0 J. Bennette 41' 2-1 J. Bennette 64' 2-2 S.",
+        "publishedAt": "2024-07-10T11:58:07Z",
+        "channelId": "UCfkXDY7vwkcJ8ddFGz8KusA",
+        "title": "[GOING SEVENTEEN] EP.107 반장 선거 #1 (Class President Election #1)",
+        "description": "[GOING SEVENTEEN] EP.107 반장 선거 #1 (Class President Election #1) #SEVENTEEN #세븐틴 #GOING_SVT #고잉세븐틴.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/default.jpg",
+            "url": "https://i.ytimg.com/vi/TULYcfiPuo0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TULYcfiPuo0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TULYcfiPuo0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "DEL PIERO 10",
+        "channelTitle": "SEVENTEEN",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:57:34Z"
+        "publishTime": "2024-07-10T11:58:07Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "0TAGfPgdMc6n8zlJxeXJ-wM6CBw",
+      "etag": "fD49bT13N34acJ6UTE31IaOVlpE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Ko1bqasNDls"
+        "videoId": "JjsZlOvUFSo"
       },
       "snippet": {
-        "publishedAt": "2018-12-16T12:47:18Z",
-        "channelId": "UCFMkPeE8jiPirJMv9kttuIg",
-        "title": "South Korea 4K. Interesting Facts About South Korea",
-        "description": "South Korea is one of the most developed countries today. Lets take a tour of Korea and see modern Korean cities. Seoul, Busan ...",
+        "publishedAt": "2024-07-17T10:17:01Z",
+        "channelId": "UCfkXDY7vwkcJ8ddFGz8KusA",
+        "title": "[SEVENTEEN’s SNAPSHOOT] EP.72 원우와 카메라의 조합은 옳다 (WONWOO &amp; A Camera Is Always Right)",
+        "description": "[SEVENTEEN's SNAPSHOOT] EP.72 원우와 카메라의 조합은 옳다 (WONWOO & A Camera Is Always Right) #SEVENTEEN ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/default.jpg",
+            "url": "https://i.ytimg.com/vi/JjsZlOvUFSo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JjsZlOvUFSo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JjsZlOvUFSo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CoolVision",
+        "channelTitle": "SEVENTEEN",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-12-16T12:47:18Z"
+        "publishTime": "2024-07-17T10:17:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "-WBBf5ZALtk3cXr0FsaI5CPciVk",
+      "etag": "Y1uE4AZ19fLs-6PKi_Hyh9ZfdZ4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Y_KWTkEqG2o"
+        "videoId": "vCbStQvoI6U"
       },
       "snippet": {
-        "publishedAt": "2022-09-25T20:07:51Z",
-        "channelId": "UCKJtYrlWaF3G0LIneEKoPew",
-        "title": "Night Shift With the Hardest Tournament In Korea | Uprising Korea 2022: The ATP Fight Companion",
-        "description": "TEKKEN7 #Aris #TWT2022 Aris had to tap out due to the time, check out Top 3 on https://www.twitch.tv/videos/1600697972 ...",
+        "publishedAt": "2024-07-15T23:35:57Z",
+        "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+        "title": "&quot;세븐틴 모든 음악, 인간이 창작&quot;…우지, BBC &#39;AI 사용&#39; 보도 반박 / SBS / 굿모닝연예",
+        "description": "최근 영국 BBC가 '세븐틴이 AI를 이용해 작사, 작곡을 했다'는 내용의 기사를 보도했는데요. 이에 대해 멤버 우지가 반박 입장을 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/default.jpg",
+            "url": "https://i.ytimg.com/vi/vCbStQvoI6U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vCbStQvoI6U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vCbStQvoI6U/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Avoiding The Puddle",
+        "channelTitle": "SBS 뉴스",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-25T20:07:51Z"
+        "publishTime": "2024-07-15T23:35:57Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WMrM2ghOy8F-mEdAiP1lX0p0dek",
+      "etag": "jEIODNWUSamCZyjcuIevE8kifD8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "cXX5J3rHjHk"
+        "videoId": "8ca0xEJH9wY"
       },
       "snippet": {
-        "publishedAt": "2022-09-25T03:09:45Z",
-        "channelId": "UCtKKtyxOmmt60A2-pp0B1cw",
-        "title": "There are some things about Korea in the Tower of London?, Tower of London, Queen, AMWF, Couple",
-        "description": "toweroflondon #queenelizabeth #amwf.",
+        "publishedAt": "2022-05-31T10:00:09Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "세븐틴(SEVENTEEN)의 킬링보이스를 라이브로! - 박수, 예쁘다, 울고 싶지 않아, A-TEEN, HOT, 아낀다, 어쩌나, Left &amp; Right | 딩고뮤직",
+        "description": "디.아이.엔.지.오 X 세븐틴 콜라보레이션 13명 완전체의 HOT한 킬링보이스 그냥 가보자는 거야   [선곡리스트] 00:00 오프닝 00:31 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/default.jpg",
+            "url": "https://i.ytimg.com/vi/8ca0xEJH9wY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8ca0xEJH9wY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8ca0xEJH9wY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "브리티쉬 새댁 : BRITISH WIFE",
+        "channelTitle": "딩고 뮤직 / dingo music",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-25T03:09:45Z"
+        "publishTime": "2022-05-31T10:00:09Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "VhPanuQC4a0QcSr88ZmWldTTvnE",
+      "etag": "0pCGUdXmam6TBRD_cMydqr3D-Z8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "poHTA94-BeY"
+        "videoId": "-GQg25oP0S4"
       },
       "snippet": {
-        "publishedAt": "2022-09-21T15:00:28Z",
-        "channelId": "UCn8zNIfYAQNdrFRrr8oibKw",
-        "title": "What North Korea Doesn’t Want You To See | Super Users",
-        "description": "Blogger Jacob Bogle often receives this warning, “State-sponsored actors are attempting to hack into your account.” It's all ...",
+        "publishedAt": "2023-04-24T08:58:11Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "SEVENTEEN (세븐틴) &#39;손오공&#39; Official MV",
+        "description": "SEVENTEEN (세븐틴) '손오공' Official MV #SEVENTEEN #세븐틴 #FML #손오공 #Super Credits: Production｜OUI PRODUCTION ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/poHTA94-BeY/default.jpg",
+            "url": "https://i.ytimg.com/vi/-GQg25oP0S4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/poHTA94-BeY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-GQg25oP0S4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/poHTA94-BeY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-GQg25oP0S4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "VICE",
+        "channelTitle": "HYBE LABELS",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-21T15:00:28Z"
+        "publishTime": "2023-04-24T08:58:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "rGmZBOTYAjhr2P9WvyJ0nH9N-dU",
+      "etag": "F7N0NpwDpCYa5K9vEg2ZpqZttWc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "yICHjopBVT0"
+        "videoId": "4AGmCK8xRK0"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T13:40:34Z",
-        "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
-        "title": "US aircraft carrier arrives at naval base in South Korea&#39;s Busan",
-        "description": "US aircraft carrier USS Ronald Reagan has arrived at a naval base in South Korea's southern port city of Busan. Officials in Seoul ...",
+        "publishedAt": "2024-07-13T10:00:08Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "세계관 대통합 | 노포기 EP.1",
+        "description": "오늘을 기다렸어     포기하지 않는 자에게 문을 열어버린... 화제의 신도시 몬븐틴시티     드디어 입주 시작   몬스타엑스 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/yICHjopBVT0/default.jpg",
+            "url": "https://i.ytimg.com/vi/4AGmCK8xRK0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/yICHjopBVT0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4AGmCK8xRK0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/yICHjopBVT0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4AGmCK8xRK0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CNA",
+        "channelTitle": "KBS Kpop",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:40:34Z"
+        "publishTime": "2024-07-13T10:00:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "47b4-JmLcO11LACaUuRS7IK72K4",
+      "etag": "xrw7damLddmiMR2P-hISnDrpR1k",
       "id": {
         "kind": "youtube#video",
-        "videoId": "udtN3czhkA8"
+        "videoId": "wZxmwwdDp1k"
       },
       "snippet": {
-        "publishedAt": "2022-09-24T23:00:31Z",
-        "channelId": "UCa-DreapaYm4Roo0CfUBGQg",
-        "title": "bye seoul ✨ a day of my life in korea ☕ cafe hopping in daejeon, a little trip out of seoul vlog",
-        "description": "Head to https://squarespace.com/caricakes to save 10% off your first purchase of a website or domain using code CARICAKES ...",
+        "publishedAt": "2021-10-22T09:17:40Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "Rock with you - 세븐틴 (SEVENTEEN)  [뮤직뱅크/Music Bank] | KBS 211022 방송",
+        "description": "Rock with you - 세븐틴 (SEVENTEEN) KBS2 TV 뮤직뱅크｜매주 금요일 오후 5시에 방송됩니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/udtN3czhkA8/default.jpg",
+            "url": "https://i.ytimg.com/vi/wZxmwwdDp1k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/udtN3czhkA8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wZxmwwdDp1k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/udtN3czhkA8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wZxmwwdDp1k/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "cari cakes",
+        "channelTitle": "KBS Kpop",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T23:00:31Z"
+        "publishTime": "2021-10-22T09:17:40Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "g9BlAPsYE79_C_3JgqCGB_AEpWQ",
+      "etag": "TQjSBmax1sChFnCt84S82VAMaxk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "3P1CnWI62Ik"
+        "videoId": "zDZQYI2haIg"
       },
       "snippet": {
-        "publishedAt": "2020-07-30T05:46:28Z",
-        "channelId": "UChhOtjq-3QyyLmP2jv9amrg",
-        "title": "Feel the Rhythm of KOREA: SEOUL",
-        "description": "Enjoy wonderful attractions of South Korea with a lively, rhythmic sound! Korean Tourism Organization collaborated with an ...",
+        "publishedAt": "2024-07-13T03:20:08Z",
+        "channelId": "UC-EtyENf4soN34l_P3Ff9pg",
+        "title": "[세븐틴] 짱 부러운 정한이 체질",
+        "description": "세븐틴 #seventeen #정한 #승관 #nct #도영 #정우 #해찬 #먹2U #귀여운 #고추짬뽕 #윤앤부 [영상 출처] 24.05.12 NCT 먹2U EP.6 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/default.jpg",
+            "url": "https://i.ytimg.com/vi/zDZQYI2haIg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zDZQYI2haIg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zDZQYI2haIg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Imagine Your Korea",
+        "channelTitle": "짱캐럿",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-07-30T05:46:28Z"
+        "publishTime": "2024-07-13T03:20:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ru_YTz8hyk0F8R8wB7T09knh_jI",
+      "etag": "ulQ_Kv2Blmzj5UVBWQBf-CCuTc0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4uqoz7xIf6o"
+        "videoId": "RU3JCW3cAMk"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T12:58:56Z",
-        "channelId": "UCydi_iDuARZqbC0vYpGhfsQ",
-        "title": "South Korea vs Costa Rica 2-2 Extеndеd Hіghlіghts &amp; Gоals 2022 HD",
-        "description": "Korea#CostaRica#SoonGoal.",
+        "publishedAt": "2023-04-27T11:19:31Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "&#39;최초 공개/4K&#39; 세븐틴 (SEVENTEEN) - 손오공 #엠카운트다운 EP.794 | Mnet 230427 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.794 세븐틴 - 손오공 (SEVENTEEN - Super) ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/default.jpg",
+            "url": "https://i.ytimg.com/vi/RU3JCW3cAMk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RU3JCW3cAMk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RU3JCW3cAMk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "tahahahahahbarame",
+        "channelTitle": "Mnet K-POP",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T12:58:56Z"
+        "publishTime": "2023-04-27T11:19:31Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "GbelpdHsiy3KHvkC7zhm4QQWdzg",
+      "etag": "MFg4Gh-iUInQ_UMqB4gctIeW318",
       "id": {
         "kind": "youtube#video",
-        "videoId": "UDlWtkvFYLU"
+        "videoId": "eM-TmvV_G2o"
       },
       "snippet": {
-        "publishedAt": "2022-09-24T23:18:39Z",
-        "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
-        "title": "North Korea fires ballistic missile towards the Sea of Japan",
-        "description": "South Korea's Joint Chiefs of Staff have announced North Korea has fired an unspecified ballistic missile towards the sea of ...",
+        "publishedAt": "2024-04-29T09:16:36Z",
+        "channelId": "UCmth4hMyizG-_W9jidBqs_A",
+        "title": "SEVENTEEN &#39;MAESTRO&#39; Lyrics (세븐틴 MAESTRO 가사) (Color Coded Lyrics)",
+        "description": "All Rights Administered by Pledis Entertainment • Artist: SEVENTEEN (세븐틴) • Song ♫: MAESTRO • Album: SEVENTEEN BEST ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/default.jpg",
+            "url": "https://i.ytimg.com/vi/eM-TmvV_G2o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eM-TmvV_G2o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eM-TmvV_G2o/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Sky News Australia",
+        "channelTitle": "Jaeguchi",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T23:18:39Z"
+        "publishTime": "2024-04-29T09:16:36Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "YAH595UCgwnGgeFIzORsPSGF1Z8",
+      "etag": "deucldloXay2T4eCBrQUi0jds2s",
       "id": {
         "kind": "youtube#video",
-        "videoId": "eVFMDMpY36o"
+        "videoId": "8qFwSTb8xFM"
       },
       "snippet": {
-        "publishedAt": "2020-11-21T04:43:42Z",
-        "channelId": "UCkIom4UP_2D0DXuG92vd_KQ",
-        "title": "【Seoul】 Travel Guide - Top 10 Seoul | Korea Travel | Asia Travel | Travel at home",
-        "description": "Follow us to the most beautiful places in Seoul! Have an amazing trip at home. In this video, we'll cover more than Top ...",
+        "publishedAt": "2024-05-11T13:59:58Z",
+        "channelId": "UCfkXDY7vwkcJ8ddFGz8KusA",
+        "title": "SEVENTEEN(세븐틴) - 청춘찬가 (Cheers to youth) @SEVENTEEN TOUR ‘FOLLOW’ AGAIN TO SEOUL",
+        "description": "SEVENTEEN(세븐틴) - 청춘찬가 (Cheers to youth) @SEVENTEEN TOUR 'FOLLOW' AGAIN TO SEOUL #SEVENTEEN #세븐틴 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/default.jpg",
+            "url": "https://i.ytimg.com/vi/8qFwSTb8xFM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8qFwSTb8xFM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8qFwSTb8xFM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Before Your Trip",
+        "channelTitle": "SEVENTEEN",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-11-21T04:43:42Z"
+        "publishTime": "2024-05-11T13:59:58Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "rAcCkuleJdI7Kwgus5cR7yUnVyo",
+      "etag": "us5Se21RW32KiSoz3liVVYgQgNE",
       "id": {
-        "kind": "youtube#video",
-        "videoId": "rXDoqD7FjQw"
+        "kind": "youtube#playlist",
+        "playlistId": "PL_nQhVIfUdDnxl6uJ5FmnjV7opo1RD_gI"
       },
       "snippet": {
-        "publishedAt": "2022-09-22T16:33:25Z",
-        "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-        "title": "WION Fineprint | North Korea denies sending arms to Russia amid Ukraine war",
-        "description": "North Korea denied sending weapons to Russia, accusing the United States of spreading rumours about such a sale to tarnish ...",
+        "publishedAt": "2023-02-28T17:01:14Z",
+        "channelId": "UCzjBfJiRrtRgLRxa4NvXYQQ",
+        "title": "고잉세븐틴 순서대로 모음",
+        "description": "예능형 고잉세븐틴 모음* 아이디어 회의와 로고송 제작은 고잉의 시작이라고 생각해서 목록에 넣었어요. 예능형 고잉 보고싶으시면 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/default.jpg",
+            "url": "https://i.ytimg.com/vi/8BR6snFbUTA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8BR6snFbUTA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8BR6snFbUTA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "WION",
+        "channelTitle": "svt17",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-22T16:33:25Z"
+        "publishTime": "2023-02-28T17:01:14Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ybHTGc970cUMrjeGLj8LSnXOzbA",
+      "etag": "_Z_soA_6bhDNkI96jFbuXNfJbvE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "X5q0Fd_KV1w"
+        "videoId": "k2OCTYLUitY"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T11:09:06Z",
-        "channelId": "UC925y3Dn61A7MBXGZJWNX9A",
-        "title": "MOVING IN KOREA (+ grocery shopping)",
-        "description": "BGM sources BGM President https://www.youtube.com/c/bgmpresident 별 헤는 다락방 Starry Attic ...",
+        "publishedAt": "2020-06-22T11:02:37Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "&#39;최초 공개&#39; ♬ My My - 세븐틴(SEVENTEEN) | 세븐틴 컴백쇼 [헹가래] 200622",
+        "description": "'최초 공개' ♬ My My - 세븐틴(SEVENTEEN) | 세븐틴 컴백쇼 [헹가래] ------------------------------------------------------------------ ▷[Mnet] ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/default.jpg",
+            "url": "https://i.ytimg.com/vi/k2OCTYLUitY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k2OCTYLUitY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k2OCTYLUitY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "KrisTells Vlogs",
+        "channelTitle": "Mnet K-POP",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T11:09:06Z"
+        "publishTime": "2020-06-22T11:02:37Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Fko1jl6ZczSFvLyX69dkEe9R4nI",
+      "etag": "o7FLW2Yqt3Hqy5Rk-Oi8W3xRRz0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "OIGBoo2QbFM"
+        "videoId": "mduVki6Hrac"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T09:15:00Z",
-        "channelId": "UC91JExDefknFHQ5Lqp-g_Jg",
-        "title": "[ENG] 무슨 노래 듣고 계세요? 고려대편 What Song Are You listening To? Korea University",
-        "description": "고려대학교에서 사람들에게 물어봤습니다. \"무슨 노래 듣고 계세요?\" *본 영상에서 인터뷰에 응해주신 모든 분들께는 유튜브 촬영 ...",
+        "publishedAt": "2024-05-17T08:00:09Z",
+        "channelId": "UCB9e3pof1o83aa0kkaoeJGA",
+        "title": "[4K] 세븐틴(SEVENTEEN) “MAESTRO” Band LIVE Concert 잇라에 마에스트로 완전체의 등장이라...🪄 [it’s KPOP LIVE 잇츠라이브]",
+        "description": "잇츠라이브를 찾아온 세븐틴 (SEVENTEEN)!!   강렬한 피아노 사운드 인트로가 인상적인 댄스 R&B 장르의 곡, 세븐틴의 'MAESTRO' ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/default.jpg",
+            "url": "https://i.ytimg.com/vi/mduVki6Hrac/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mduVki6Hrac/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mduVki6Hrac/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "복코s",
+        "channelTitle": "it's Live",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T09:15:00Z"
+        "publishTime": "2024-05-17T08:00:09Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "dNwGFbxrh_ZK1kG7ax2X3Byi57I",
+      "etag": "DflnUsAsg-lmgNke4YUt8e8Pz-8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "jejLBWMsyHk"
+        "videoId": "mudiTbs_FZM"
       },
       "snippet": {
-        "publishedAt": "2022-07-27T13:28:04Z",
-        "channelId": "UCg-p3lQIqmhh7gHpyaOmOiQ",
-        "title": "Pack your bags boys! You&#39;re going to KOREA!!!",
-        "description": "A year after a handshake and a promise… the British High schoolers are finally coming on a School Trip to Korea! 7 students.",
+        "publishedAt": "2020-10-24T08:00:14Z",
+        "channelId": "UCEIi7zFR_wE23jFncVtd6-A",
+        "title": "[BE ORIGINAL] SEVENTEEN(세븐틴) &#39;HOME;RUN&#39; (4K)",
+        "description": "[BE ORIGINAL] SEVENTEEN 'HOME;RUN' [비 오리지널] 세븐틴 'HOME;RUN' 또 한번 스춤리즈 갱신하러 온 세봉이들 렢앤라 이어 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/default.jpg",
+            "url": "https://i.ytimg.com/vi/mudiTbs_FZM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mudiTbs_FZM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mudiTbs_FZM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "영국남자 Korean Englishman",
+        "channelTitle": "STUDIO CHOOM [스튜디오 춤]",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-27T13:28:04Z"
+        "publishTime": "2020-10-24T08:00:14Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "QUOydUauRWhJhZ_1YBT7uIpreM8",
+      "etag": "Z7NTnP1mSUCWheiOvfLthSQ3p1U",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4usmpuMP7R4"
+        "videoId": "1Gxy46LADxA"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T18:17:27Z",
-        "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-        "title": "U.S. aircraft carrier arrives in South Korea for first time since 2018",
-        "description": "An American aircraft carrier has arrived in South Korea for the first time in almost five years. The U.S. and South Korean navies will ...",
+        "publishedAt": "2023-04-28T09:25:21Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "손오공 - 세븐틴 (SEVENTEEN) [뮤직뱅크/Music Bank] | KBS 230428 방송",
+        "description": "손오공 - 세븐틴 (SEVENTEEN) KBS2 TV 뮤직뱅크｜매주 금요일 오후 5시 10분에 방송됩니다. #손오공 #가요 #가수 #음악 #케이팝 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/default.jpg",
+            "url": "https://i.ytimg.com/vi/1Gxy46LADxA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1Gxy46LADxA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1Gxy46LADxA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CBS News",
+        "channelTitle": "KBS Kpop",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T18:17:27Z"
+        "publishTime": "2023-04-28T09:25:21Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "l8khr7AUrmkyRXFla0D5kQShrp0",
+      "etag": "5gIyKvw0NuKg4D6XR37WJSoOiSo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "o70MzTHHNbI"
+        "videoId": "BlMNNtrDsPE"
       },
       "snippet": {
-        "publishedAt": "2018-10-22T18:59:58Z",
-        "channelId": "UCFMkPeE8jiPirJMv9kttuIg",
-        "title": "Seoul South Korea 4K .City - Sights - People",
-        "description": "Lets take a tour to Seoul South Korea. One of the largest cities in the world renowned for its architecture, technical advancements ...",
+        "publishedAt": "2024-07-12T09:00:15Z",
+        "channelId": "UCsPdcMGcSjcagQ17OW404VQ",
+        "title": "무대에서 눈빛교환하다가 딱들킨 아이돌TOP5 #세븐틴 #비투비 #라이즈 #투어스 #BTS #에스파",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/default.jpg",
+            "url": "https://i.ytimg.com/vi/BlMNNtrDsPE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BlMNNtrDsPE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BlMNNtrDsPE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CoolVision",
+        "channelTitle": "이거 어떻노",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-10-22T18:59:58Z"
+        "publishTime": "2024-07-12T09:00:15Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DIgkkmzdS-cUUr86ruCcsXgRG6M",
+      "etag": "sF_xT6bapmG1KO6e_CL_CrQP00Y",
       "id": {
         "kind": "youtube#video",
-        "videoId": "P2lhXFe8C1k"
+        "videoId": "MKa2iPcgjbc"
       },
       "snippet": {
-        "publishedAt": "2022-09-24T07:50:00Z",
-        "channelId": "UCxHoBXkY88Tb8z1Ssj6CWsQ",
-        "title": "যৌথ সামরিক মহড়ায় দক্ষিণ কোরিয়া-যুক্তরাষ্ট্র | USA | South Korea | North Korea | Somoy TV",
-        "description": "jointexercises #usaandsouthkorea #usa #USaircraft #southkorea #northkorea #somoytv The United States is going to conduct ...",
+        "publishedAt": "2024-07-01T11:29:13Z",
+        "channelId": "UCHvxjcfLMKOPKH3ce5o0bdw",
+        "title": "[세븐틴]조슈아 도와주는 에스쿱스#seventeen ##joshua",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/default.jpg",
+            "url": "https://i.ytimg.com/vi/MKa2iPcgjbc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MKa2iPcgjbc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MKa2iPcgjbc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "SOMOY TV",
+        "channelTitle": "에쭈꿉쭈",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T07:50:00Z"
+        "publishTime": "2024-07-01T11:29:13Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "N6qCh0kjYbXxXqUHIP2huk-Qync",
+      "etag": "VOBN3voyHr9_hQJpEVhl-0svgbk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "0YZxpzrANXM"
+        "videoId": "s_3BZLpRgLM"
       },
       "snippet": {
-        "publishedAt": "2022-09-09T09:33:00Z",
-        "channelId": "UCtyltqstMm6iKnkk2Y9Zt8A",
-        "title": "We went to KOREA to meet BTS 💜 Staying at KOREA&#39;S First Robot Hotel",
-        "description": "ROBOTS, TECHNOLOGY AUR BHOT SARA DHAMAAL #KOREA SUBSCRIBE!!! . . Read my travel stories: ...",
+        "publishedAt": "2022-06-03T09:36:56Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "HOT - SEVENTEEN [뮤직뱅크/Music Bank] | KBS 220603 방송",
+        "description": "HOT - SEVENTEEN KBS2 TV 뮤직뱅크｜매주 금요일 오후 5시에 방송됩니다. #HOT #가요 #가수 #음악 #케이팝 #SEVENTEEN ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/default.jpg",
+            "url": "https://i.ytimg.com/vi/s_3BZLpRgLM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/s_3BZLpRgLM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/s_3BZLpRgLM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Wanderers Hub",
+        "channelTitle": "KBS Kpop",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-09T09:33:00Z"
+        "publishTime": "2022-06-03T09:36:56Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "36aoMmq9pwSNJc9UVSAIqhkwLc4",
+      "etag": "h2i-RSm1YROBteyUHIfIcyvlPq8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Wfu846Gb6Vk"
+        "videoId": "YjiNqKR36No"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T13:30:08Z",
-        "channelId": "UCttQf1sGLn5wZaaqoHam1-w",
-        "title": "The First Ever Safari Zone in South Korea is INSANE, BECAUSE... - Pokemon GO",
-        "description": "After not being able to attend any in-person events for over 2 years, finally this is not just the first Safari Zone to happen in South ...",
+        "publishedAt": "2024-06-20T12:30:21Z",
+        "channelId": "UC_vMyKzPN0q7ZuK0C2Cqf2Q",
+        "title": "[세븐틴/버논] 어머니가 미국인이셔도 번역기 돌린다 | 240614 위버스라이브 #seventeen",
+        "description": "영어 좀 못해도 괜찮은 이유 두번째 - 어머니가 미국인이시고, 미국에서 태어나도 번역기 돌려... 샷아웃투 파파고 240614 버논 위버스 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/default.jpg",
+            "url": "https://i.ytimg.com/vi/YjiNqKR36No/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YjiNqKR36No/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YjiNqKR36No/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BrandonTan91",
+        "channelTitle": "따봉세봉",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:30:08Z"
+        "publishTime": "2024-06-20T12:30:21Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "m17Pfamo3CmEYNqg7OyGhtrf8Cg",
+      "etag": "OWUwgRBksH0HMWaWzcJse-8kybs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "gwzO4fPkDEk"
+        "videoId": "cbI8tid4H5s"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T14:14:56Z",
-        "channelId": "UC5klUqmlo9G8U5iaQ53ogIA",
-        "title": "Announcing my new album, and arriving in South Korea",
-        "description": "It's my first time in South Korea and I'm absolutely loving it. I also announced my new album Future eForever in this video. If you'd ...",
+        "publishedAt": "2024-04-17T10:00:07Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "BEST OF BEST💎 언제나 완벽한 세븐틴의 데뷔 무대 &#39;아낀다&#39;부터 &#39;음악의 신&#39;까지 무대 몰아보기 | SEVENTEEN Stage Compilation",
+        "description": "언제나 최고의 무대만을 보여주는 #세븐틴 의 완성형 데뷔 무대 '아낀다'부터 무대의 신이 되어버린 '음악의 신'에 이르기까지! 세븐틴 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/default.jpg",
+            "url": "https://i.ytimg.com/vi/cbI8tid4H5s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cbI8tid4H5s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cbI8tid4H5s/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Jonathan Ogden",
+        "channelTitle": "KBS Kpop",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T14:14:56Z"
+        "publishTime": "2024-04-17T10:00:07Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "3DXONSxKDfA-3Yzj9QeyGmz_fb8",
+      "etag": "LMmnq-435fZYJAKuIO6hZ-lDYtY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "x6AHuxqt1U0"
+        "videoId": "QuKb8-9tWv4"
       },
       "snippet": {
-        "publishedAt": "2022-09-22T02:00:09Z",
-        "channelId": "UCNrRJm0gWx69f8Ybdnsi23A",
-        "title": "shopping in korea vlog 🇰🇷 shoes &amp; accessories haul from Gotomall Underground Shopping Center",
-        "description": "come shopping with me! shoes & accessories haul from Gotomall Underground shopping center in Seoul. 고투몰 지하 상가 ...",
+        "publishedAt": "2023-05-09T07:08:41Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "[𝑲-𝑨𝒍𝒍 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕] 세븐틴(SEVENTEEN) &#39;아낀다&#39; 부터 &#39;손오공&#39;까지 KBS 출연 무대 모음💘 l KBS방송",
+        "description": "00:00 손오공 (뮤직뱅크 2023.04.28) 03:25 F*ck My Life (뮤직뱅크 2023.05.05) 06:45 파이팅 해야지 (Feat. 이영지) - 부석순 (뮤직 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/default.jpg",
+            "url": "https://i.ytimg.com/vi/QuKb8-9tWv4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QuKb8-9tWv4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QuKb8-9tWv4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "sassyinkorea",
+        "channelTitle": "KBS Kpop",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-22T02:00:09Z"
+        "publishTime": "2023-05-09T07:08:41Z"
       }
     }
   ]
