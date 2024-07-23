@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "tPOnOU0APHiMXJPN23NA_n5VGNw",
+  "etag": "D8gcmUMls_qE_zHvRehbjRFTN4c",
   "nextPageToken": "CBkQAA",
   "regionCode": "KR",
   "pageInfo": {
@@ -10,35 +10,143 @@
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "U3kVUEEs1GkcfxB6P9Xud0VR12E",
+      "etag": "wqjLpLRAYIxFeFqEZ7ljg8GYvK0",
       "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCfkXDY7vwkcJ8ddFGz8KusA"
+        "kind": "youtube#video",
+        "videoId": "N4h9rhifoEo"
       },
       "snippet": {
-        "publishedAt": "2012-11-16T08:20:35Z",
-        "channelId": "UCfkXDY7vwkcJ8ddFGz8KusA",
-        "title": "SEVENTEEN",
-        "description": "SEVENTEEN Official Youtube #세븐틴 공식 유튜브.",
+        "publishedAt": "2024-07-23T13:54:20Z",
+        "channelId": "UCkOFM0UyK2_zbknM1PWDZIA",
+        "title": "2024 캐럿랜드 세븐틴 안어울리는 노래 첫콘 full",
+        "description": "2024 캐럿랜드 세븐틴 안어울리는 노래 첫콘 full 명호 스마트 버논 수퍼노바 준 휘시 우지 핫스윗 민규 스티키.",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/J8RX-UOMRtv5ihld0IAO6IRTACN7AfE0s9mDp-Cl0ZqnYOSNBx8qg0aB1iFv6CzpXi5gCpyIhOM=s88-c-k-c0xffffffff-no-rj-mo"
+            "url": "https://i.ytimg.com/vi/N4h9rhifoEo/default.jpg",
+            "width": 120,
+            "height": 90
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/J8RX-UOMRtv5ihld0IAO6IRTACN7AfE0s9mDp-Cl0ZqnYOSNBx8qg0aB1iFv6CzpXi5gCpyIhOM=s240-c-k-c0xffffffff-no-rj-mo"
+            "url": "https://i.ytimg.com/vi/N4h9rhifoEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
           },
           "high": {
-            "url": "https://yt3.ggpht.com/J8RX-UOMRtv5ihld0IAO6IRTACN7AfE0s9mDp-Cl0ZqnYOSNBx8qg0aB1iFv6CzpXi5gCpyIhOM=s800-c-k-c0xffffffff-no-rj-mo"
+            "url": "https://i.ytimg.com/vi/N4h9rhifoEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
           }
         },
-        "channelTitle": "SEVENTEEN",
+        "channelTitle": "BeryVery TV",
         "liveBroadcastContent": "none",
-        "publishTime": "2012-11-16T08:20:35Z"
+        "publishTime": "2024-07-23T13:54:20Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "sHpG9UxEYpXujrTqlr9ZM91wn3I",
+      "etag": "N1437GPj-woYZ_qPygqy6dx_sB8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "76_dOBZzyuE"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-23T11:28:48Z",
+        "channelId": "UCkOFM0UyK2_zbknM1PWDZIA",
+        "title": "2024 캐럿랜드 세븐틴 안어울리는 노래 정한 tap",
+        "description": "2024 캐럿랜드 세븐틴 안어울리는 노래 정한 tap Seventeen caratland.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/76_dOBZzyuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/76_dOBZzyuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/76_dOBZzyuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BeryVery TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-23T11:28:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AeVvkefA_rmoLv-8TN5qSnS9dZ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fIV8tqijPzE"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-23T13:18:18Z",
+        "channelId": "UCkOFM0UyK2_zbknM1PWDZIA",
+        "title": "2024 세븐틴 캐럿랜드 유닛리버스 보컬팀 LALALI",
+        "description": "2024 세븐틴 캐럿랜드 유닛리버스 보컬팀 LALALI vocal team 날라리.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fIV8tqijPzE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fIV8tqijPzE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fIV8tqijPzE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BeryVery TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-23T13:18:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YNu7CduAP0MD3Gu8V15Z_XoQJag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sSOoYvtNAYE"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-23T14:09:35Z",
+        "channelId": "UCTnIzThnnpueok-RfZpyCww",
+        "title": "240723 세븐틴 캐럿랜드 경음악의 신 완전체ver.",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sSOoYvtNAYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sSOoYvtNAYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sSOoYvtNAYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "안녕 나의 기쁨이여",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-23T14:09:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vA-QwevcKhn3Y-1mjaj0_SXnHzQ",
       "id": {
         "kind": "youtube#video",
         "videoId": "uEgjPvWskJc"
@@ -106,138 +214,70 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "CtWr-nFJi_qZXf_yZ4d1hKmnoRs",
+      "etag": "FSecx3Uwl0nX0Rlt96XM5BacwPw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "TULYcfiPuo0"
+        "videoId": "1T8crnQQdX4"
       },
       "snippet": {
-        "publishedAt": "2024-07-10T11:58:07Z",
+        "publishedAt": "2024-07-20T12:59:58Z",
         "channelId": "UCfkXDY7vwkcJ8ddFGz8KusA",
-        "title": "[GOING SEVENTEEN] EP.107 반장 선거 #1 (Class President Election #1)",
-        "description": "[GOING SEVENTEEN] EP.107 반장 선거 #1 (Class President Election #1) #SEVENTEEN #세븐틴 #GOING_SVT #고잉세븐틴.",
+        "title": "[당9칠래5] EP.1 티라미수 케익의 전말",
+        "description": "[당9칠래5] EP.1 티라미수 케익의 전말 #SCOUPS #에스쿱스 #JEONGHAN #정한 #SEVENTEEN #세븐틴 #당9칠래5.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/TULYcfiPuo0/default.jpg",
+            "url": "https://i.ytimg.com/vi/1T8crnQQdX4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/TULYcfiPuo0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1T8crnQQdX4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/TULYcfiPuo0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1T8crnQQdX4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "SEVENTEEN",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-07-10T11:58:07Z"
+        "publishTime": "2024-07-20T12:59:58Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "fD49bT13N34acJ6UTE31IaOVlpE",
+      "etag": "8dS8mTRbiFz3VVVDK5sjUi3epbQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "JjsZlOvUFSo"
+        "videoId": "cdRmsG7ok-g"
       },
       "snippet": {
-        "publishedAt": "2024-07-17T10:17:01Z",
+        "publishedAt": "2024-07-22T12:59:59Z",
         "channelId": "UCfkXDY7vwkcJ8ddFGz8KusA",
-        "title": "[SEVENTEEN’s SNAPSHOOT] EP.72 원우와 카메라의 조합은 옳다 (WONWOO &amp; A Camera Is Always Right)",
-        "description": "[SEVENTEEN's SNAPSHOOT] EP.72 원우와 카메라의 조합은 옳다 (WONWOO & A Camera Is Always Right) #SEVENTEEN ...",
+        "title": "[SVT Record] 바쁘다 바빠 명호사회🐸 | 리듬은 따다다라다 (with. CARAT)🎵 | 샤먼 야시장 방문기",
+        "description": "[SVT Record] 바쁘다 바빠 명호사회   | 리듬은 따다다라다 (with. CARAT)   | 샤먼 야시장 방문기 #SEVENTEEN #세븐틴 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JjsZlOvUFSo/default.jpg",
+            "url": "https://i.ytimg.com/vi/cdRmsG7ok-g/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JjsZlOvUFSo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cdRmsG7ok-g/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JjsZlOvUFSo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cdRmsG7ok-g/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "SEVENTEEN",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-07-17T10:17:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Y1uE4AZ19fLs-6PKi_Hyh9ZfdZ4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "vCbStQvoI6U"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-15T23:35:57Z",
-        "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-        "title": "&quot;세븐틴 모든 음악, 인간이 창작&quot;…우지, BBC &#39;AI 사용&#39; 보도 반박 / SBS / 굿모닝연예",
-        "description": "최근 영국 BBC가 '세븐틴이 AI를 이용해 작사, 작곡을 했다'는 내용의 기사를 보도했는데요. 이에 대해 멤버 우지가 반박 입장을 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vCbStQvoI6U/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vCbStQvoI6U/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vCbStQvoI6U/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "SBS 뉴스",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-07-15T23:35:57Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "jEIODNWUSamCZyjcuIevE8kifD8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "8ca0xEJH9wY"
-      },
-      "snippet": {
-        "publishedAt": "2022-05-31T10:00:09Z",
-        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
-        "title": "세븐틴(SEVENTEEN)의 킬링보이스를 라이브로! - 박수, 예쁘다, 울고 싶지 않아, A-TEEN, HOT, 아낀다, 어쩌나, Left &amp; Right | 딩고뮤직",
-        "description": "디.아이.엔.지.오 X 세븐틴 콜라보레이션 13명 완전체의 HOT한 킬링보이스 그냥 가보자는 거야   [선곡리스트] 00:00 오프닝 00:31 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8ca0xEJH9wY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8ca0xEJH9wY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8ca0xEJH9wY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "딩고 뮤직 / dingo music",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-05-31T10:00:09Z"
+        "publishTime": "2024-07-22T12:59:59Z"
       }
     },
     {
@@ -276,36 +316,240 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "F7N0NpwDpCYa5K9vEg2ZpqZttWc",
+      "etag": "YDuvGkHLisRliFpW6frH6Kwiq1Y",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4AGmCK8xRK0"
+        "videoId": "EeFL-Pzca5Q"
       },
       "snippet": {
-        "publishedAt": "2024-07-13T10:00:08Z",
-        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
-        "title": "세계관 대통합 | 노포기 EP.1",
-        "description": "오늘을 기다렸어     포기하지 않는 자에게 문을 열어버린... 화제의 신도시 몬븐틴시티     드디어 입주 시작   몬스타엑스 ...",
+        "publishedAt": "2024-07-21T04:00:09Z",
+        "channelId": "UC5xLohcPE65Y-U62X6snmRQ",
+        "title": "세븐틴 vs 117kg! 말빨 원탑 아이돌과 등빨 원탑 코미디언의 화내면 지는 토크쇼 | 딱대 EP11 부승관",
+        "description": "딱대 #세븐틴 #부승관 0:00 힐링 토크쇼 딱대 0:16 오늘의 딱맞는 게스트 : 세븐틴 부승관 님 1:43 세븐틴 히트곡 메들리 4:57 17명 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4AGmCK8xRK0/default.jpg",
+            "url": "https://i.ytimg.com/vi/EeFL-Pzca5Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4AGmCK8xRK0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EeFL-Pzca5Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4AGmCK8xRK0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EeFL-Pzca5Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "KBS Kpop",
+        "channelTitle": "빠더너스 BDNS",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-07-13T10:00:08Z"
+        "publishTime": "2024-07-21T04:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tRDVkz48QTCp62Prx1TaHqmlq7M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9uywYk-uUUE"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-23T14:25:43Z",
+        "channelId": "UCkOFM0UyK2_zbknM1PWDZIA",
+        "title": "2024 세븐틴 캐럿랜드 유닛리버스 힙합팀 SPELL",
+        "description": "2024 세븐틴 캐럿랜드 유닛리버스 힙합팀 spell 스펠 hiphop team seventeen caratland.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9uywYk-uUUE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9uywYk-uUUE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9uywYk-uUUE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BeryVery TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-23T14:25:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CtWr-nFJi_qZXf_yZ4d1hKmnoRs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TULYcfiPuo0"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-10T11:58:07Z",
+        "channelId": "UCfkXDY7vwkcJ8ddFGz8KusA",
+        "title": "[GOING SEVENTEEN] EP.107 반장 선거 #1 (Class President Election #1)",
+        "description": "[GOING SEVENTEEN] EP.107 반장 선거 #1 (Class President Election #1) #SEVENTEEN #세븐틴 #GOING_SVT #고잉세븐틴.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TULYcfiPuo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TULYcfiPuo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TULYcfiPuo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SEVENTEEN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-10T11:58:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lKMtMBuUJhVw1Pudgs7JLF-Gn7Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G7__nT7SuKc"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-21T12:20:50Z",
+        "channelId": "UC_7VzKPcp4xRboQ6qsNhb3w",
+        "title": "🤔: 불가능하네요 #세븐틴 #디에잇",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G7__nT7SuKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G7__nT7SuKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G7__nT7SuKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1분 중국 소식 북경오리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-21T12:20:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-GUbvOK8XSpMeu0dWA004VEI-uc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eLIxXOwYM94"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-18T07:08:09Z",
+        "channelId": "UC-EtyENf4soN34l_P3Ff9pg",
+        "title": "[세븐틴] 맨날 봐도 맨날 웃긴 민규 핑크당",
+        "description": "세븐틴 #웃긴 #캐럿랜드 #민규 #정한 #호시 #핑크당 #귀여운 #고잉레인저 #SEVENTEEN [영상 출처] 2023 7TH CARAT LAND.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eLIxXOwYM94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eLIxXOwYM94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eLIxXOwYM94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "짱캐럿",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-18T07:08:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N57R65PAR5UuEv3CECilRjSYj5Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IfCycWtDQUI"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-21T03:00:17Z",
+        "channelId": "UCE-eKVKUH1kG9jaJ_Gll-8Q",
+        "title": "팬 되면 각오해야 하는 아이돌 TOP4 #shorts",
+        "description": "스트레이키즈 #스키즈 #세븐틴 #우지 #디에잇 #서명호 #엔시티 #nct #유타 #마크 #몬스타엑스 #몬엑 #주헌 #기현 #아이엠 #샤이니 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IfCycWtDQUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IfCycWtDQUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IfCycWtDQUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "다이슈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-21T03:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2xnKlh4X8vThdsdPgE6eY8sGjMA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "949I8AwaX8c"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-16T09:00:08Z",
+        "channelId": "UCUaA7fRZVWUFrIeztZnWIsA",
+        "title": "많이 억울했을 것 같은 세븐틴 우지(BBC 오보..)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/949I8AwaX8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/949I8AwaX8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/949I8AwaX8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "옥희덕희",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-16T09:00:08Z"
       }
     },
     {
@@ -344,41 +588,143 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "TQjSBmax1sChFnCt84S82VAMaxk",
+      "etag": "lMRZxxf70LjDgfxV7A8uHHYGfdE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "zDZQYI2haIg"
+        "videoId": "gYuy3yaOUNs"
       },
       "snippet": {
-        "publishedAt": "2024-07-13T03:20:08Z",
-        "channelId": "UC-EtyENf4soN34l_P3Ff9pg",
-        "title": "[세븐틴] 짱 부러운 정한이 체질",
-        "description": "세븐틴 #seventeen #정한 #승관 #nct #도영 #정우 #해찬 #먹2U #귀여운 #고추짬뽕 #윤앤부 [영상 출처] 24.05.12 NCT 먹2U EP.6 ...",
+        "publishedAt": "2024-07-21T03:54:26Z",
+        "channelId": "UCbYs_0VKNMSnfxT2PAh7avA",
+        "title": "[세븐틴/도겸] 센스 지렸다",
+        "description": "에스쿱스 #정한 #조슈아 #준 #호시 #원우 #우지 #디에잇 #민규 #도겸 #승관 #버논 #디노 #세븐틴 #고잉세븐틴 #shorts #쇼츠 영상 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zDZQYI2haIg/default.jpg",
+            "url": "https://i.ytimg.com/vi/gYuy3yaOUNs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zDZQYI2haIg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gYuy3yaOUNs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zDZQYI2haIg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gYuy3yaOUNs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "짱캐럿",
+        "channelTitle": "이돌민",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-07-13T03:20:08Z"
+        "publishTime": "2024-07-21T03:54:26Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ulQ_Kv2Blmzj5UVBWQBf-CCuTc0",
+      "etag": "vBct-QlTRCwu4ZWIDBmViATIO4Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X0qu1uQKY0E"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-20T10:00:09Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "⚡도파민 충전소⚡| 노포기 EP.2",
+        "description": "일단 앉아 봐...   속 깊은 네 남자의 \"찐\" 사람 사는 이야기 ((옆 테이블에서 훔쳐 듣기  )) 그리고 밝혀지는 밦값의 정체(?) 몬븐틴 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X0qu1uQKY0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X0qu1uQKY0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X0qu1uQKY0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-20T10:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7dFpLi-ipQ7wzpGAl09JqrZW_S8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eq5LLXaTiVI"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-23T14:27:47Z",
+        "channelId": "UCirulUmO3pdyI_PUYYQvhbw",
+        "title": "240723 캐럿랜드 세븐틴 준(JUN) - 청춘찬가 (Cheers to Youth) / seventeen caratland",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eq5LLXaTiVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eq5LLXaTiVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eq5LLXaTiVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "문짝 MOONZZAK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-23T14:27:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-FgHkdcKER23TdUJWcYeXcMuYtQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DOFB3i9XTZk"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-21T12:59:55Z",
+        "channelId": "UC8C6QOPDVYwmuaSBZksefdg",
+        "title": "TWS (투어스) &#39;Rock with you&#39; Dance Practice | 원곡 : SEVENTEEN (세븐틴)",
+        "description": "TWS (투어스) 'Rock with you' Dance Practice | 원곡 : SEVENTEEN (세븐틴) #TWS #투어스 #247WithUs #Rockwithyou Connect ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DOFB3i9XTZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DOFB3i9XTZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DOFB3i9XTZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-21T12:59:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E0H5k33l2AePRFGxJb178li0sCA",
       "id": {
         "kind": "youtube#video",
         "videoId": "RU3JCW3cAMk"
@@ -412,444 +758,104 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "MFg4Gh-iUInQ_UMqB4gctIeW318",
+      "etag": "Bx6OPoX3UgPHJkUhTXRxXvdmP5Y",
       "id": {
         "kind": "youtube#video",
-        "videoId": "eM-TmvV_G2o"
+        "videoId": "Gg_Nz1cMQy0"
       },
       "snippet": {
-        "publishedAt": "2024-04-29T09:16:36Z",
-        "channelId": "UCmth4hMyizG-_W9jidBqs_A",
-        "title": "SEVENTEEN &#39;MAESTRO&#39; Lyrics (세븐틴 MAESTRO 가사) (Color Coded Lyrics)",
-        "description": "All Rights Administered by Pledis Entertainment • Artist: SEVENTEEN (세븐틴) • Song ♫: MAESTRO • Album: SEVENTEEN BEST ...",
+        "publishedAt": "2024-07-17T11:30:09Z",
+        "channelId": "UCu976UrWTIh3-3c8WImzVFA",
+        "title": "뭘 좋아할지 몰라서 다 준비해봤다는 최다 멤버수 아이돌 그룹 TOP7",
+        "description": "놀라운 인원수로 화제가 된 아이돌들은 누가 있는지 함께 알아볼까요? 밝혀지지 않은 루머를 퍼트리는 댓글이나 무분별한 악성 댓글은 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eM-TmvV_G2o/default.jpg",
+            "url": "https://i.ytimg.com/vi/Gg_Nz1cMQy0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eM-TmvV_G2o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Gg_Nz1cMQy0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eM-TmvV_G2o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Gg_Nz1cMQy0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Jaeguchi",
+        "channelTitle": "DOYOURAM 두유람 - Everyday K-Culture",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-04-29T09:16:36Z"
+        "publishTime": "2024-07-17T11:30:09Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "deucldloXay2T4eCBrQUi0jds2s",
+      "etag": "jEIODNWUSamCZyjcuIevE8kifD8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "8qFwSTb8xFM"
+        "videoId": "8ca0xEJH9wY"
       },
       "snippet": {
-        "publishedAt": "2024-05-11T13:59:58Z",
-        "channelId": "UCfkXDY7vwkcJ8ddFGz8KusA",
-        "title": "SEVENTEEN(세븐틴) - 청춘찬가 (Cheers to youth) @SEVENTEEN TOUR ‘FOLLOW’ AGAIN TO SEOUL",
-        "description": "SEVENTEEN(세븐틴) - 청춘찬가 (Cheers to youth) @SEVENTEEN TOUR 'FOLLOW' AGAIN TO SEOUL #SEVENTEEN #세븐틴 ...",
+        "publishedAt": "2022-05-31T10:00:09Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "세븐틴(SEVENTEEN)의 킬링보이스를 라이브로! - 박수, 예쁘다, 울고 싶지 않아, A-TEEN, HOT, 아낀다, 어쩌나, Left &amp; Right | 딩고뮤직",
+        "description": "디.아이.엔.지.오 X 세븐틴 콜라보레이션 13명 완전체의 HOT한 킬링보이스 그냥 가보자는 거야   [선곡리스트] 00:00 오프닝 00:31 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8qFwSTb8xFM/default.jpg",
+            "url": "https://i.ytimg.com/vi/8ca0xEJH9wY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8qFwSTb8xFM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8ca0xEJH9wY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8qFwSTb8xFM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8ca0xEJH9wY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "SEVENTEEN",
+        "channelTitle": "딩고 뮤직 / dingo music",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-05-11T13:59:58Z"
+        "publishTime": "2022-05-31T10:00:09Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "us5Se21RW32KiSoz3liVVYgQgNE",
-      "id": {
-        "kind": "youtube#playlist",
-        "playlistId": "PL_nQhVIfUdDnxl6uJ5FmnjV7opo1RD_gI"
-      },
-      "snippet": {
-        "publishedAt": "2023-02-28T17:01:14Z",
-        "channelId": "UCzjBfJiRrtRgLRxa4NvXYQQ",
-        "title": "고잉세븐틴 순서대로 모음",
-        "description": "예능형 고잉세븐틴 모음* 아이디어 회의와 로고송 제작은 고잉의 시작이라고 생각해서 목록에 넣었어요. 예능형 고잉 보고싶으시면 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8BR6snFbUTA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8BR6snFbUTA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8BR6snFbUTA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "svt17",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-02-28T17:01:14Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "_Z_soA_6bhDNkI96jFbuXNfJbvE",
+      "etag": "nt-llkGE4vXa2zfIRuqbRz60mD4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "k2OCTYLUitY"
+        "videoId": "bWltuYAQfs4"
       },
       "snippet": {
-        "publishedAt": "2020-06-22T11:02:37Z",
-        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
-        "title": "&#39;최초 공개&#39; ♬ My My - 세븐틴(SEVENTEEN) | 세븐틴 컴백쇼 [헹가래] 200622",
-        "description": "'최초 공개' ♬ My My - 세븐틴(SEVENTEEN) | 세븐틴 컴백쇼 [헹가래] ------------------------------------------------------------------ ▷[Mnet] ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/k2OCTYLUitY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/k2OCTYLUitY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/k2OCTYLUitY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mnet K-POP",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-06-22T11:02:37Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "o7FLW2Yqt3Hqy5Rk-Oi8W3xRRz0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "mduVki6Hrac"
-      },
-      "snippet": {
-        "publishedAt": "2024-05-17T08:00:09Z",
-        "channelId": "UCB9e3pof1o83aa0kkaoeJGA",
-        "title": "[4K] 세븐틴(SEVENTEEN) “MAESTRO” Band LIVE Concert 잇라에 마에스트로 완전체의 등장이라...🪄 [it’s KPOP LIVE 잇츠라이브]",
-        "description": "잇츠라이브를 찾아온 세븐틴 (SEVENTEEN)!!   강렬한 피아노 사운드 인트로가 인상적인 댄스 R&B 장르의 곡, 세븐틴의 'MAESTRO' ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mduVki6Hrac/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mduVki6Hrac/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mduVki6Hrac/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "it's Live",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-05-17T08:00:09Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "DflnUsAsg-lmgNke4YUt8e8Pz-8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "mudiTbs_FZM"
-      },
-      "snippet": {
-        "publishedAt": "2020-10-24T08:00:14Z",
-        "channelId": "UCEIi7zFR_wE23jFncVtd6-A",
-        "title": "[BE ORIGINAL] SEVENTEEN(세븐틴) &#39;HOME;RUN&#39; (4K)",
-        "description": "[BE ORIGINAL] SEVENTEEN 'HOME;RUN' [비 오리지널] 세븐틴 'HOME;RUN' 또 한번 스춤리즈 갱신하러 온 세봉이들 렢앤라 이어 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mudiTbs_FZM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mudiTbs_FZM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mudiTbs_FZM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "STUDIO CHOOM [스튜디오 춤]",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-10-24T08:00:14Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Z7NTnP1mSUCWheiOvfLthSQ3p1U",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "1Gxy46LADxA"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-28T09:25:21Z",
-        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
-        "title": "손오공 - 세븐틴 (SEVENTEEN) [뮤직뱅크/Music Bank] | KBS 230428 방송",
-        "description": "손오공 - 세븐틴 (SEVENTEEN) KBS2 TV 뮤직뱅크｜매주 금요일 오후 5시 10분에 방송됩니다. #손오공 #가요 #가수 #음악 #케이팝 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1Gxy46LADxA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1Gxy46LADxA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1Gxy46LADxA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "KBS Kpop",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-04-28T09:25:21Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "5gIyKvw0NuKg4D6XR37WJSoOiSo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "BlMNNtrDsPE"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-12T09:00:15Z",
-        "channelId": "UCsPdcMGcSjcagQ17OW404VQ",
-        "title": "무대에서 눈빛교환하다가 딱들킨 아이돌TOP5 #세븐틴 #비투비 #라이즈 #투어스 #BTS #에스파",
+        "publishedAt": "2024-07-23T14:05:35Z",
+        "channelId": "UCirulUmO3pdyI_PUYYQvhbw",
+        "title": "240723 캐럿랜드 세븐틴 안 어울리는 노래 (full) / seventeen caratland",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/BlMNNtrDsPE/default.jpg",
+            "url": "https://i.ytimg.com/vi/bWltuYAQfs4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/BlMNNtrDsPE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bWltuYAQfs4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/BlMNNtrDsPE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bWltuYAQfs4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "이거 어떻노",
+        "channelTitle": "문짝 MOONZZAK",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-07-12T09:00:15Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "sF_xT6bapmG1KO6e_CL_CrQP00Y",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "MKa2iPcgjbc"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-01T11:29:13Z",
-        "channelId": "UCHvxjcfLMKOPKH3ce5o0bdw",
-        "title": "[세븐틴]조슈아 도와주는 에스쿱스#seventeen ##joshua",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MKa2iPcgjbc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MKa2iPcgjbc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MKa2iPcgjbc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "에쭈꿉쭈",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-07-01T11:29:13Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "VOBN3voyHr9_hQJpEVhl-0svgbk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "s_3BZLpRgLM"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-03T09:36:56Z",
-        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
-        "title": "HOT - SEVENTEEN [뮤직뱅크/Music Bank] | KBS 220603 방송",
-        "description": "HOT - SEVENTEEN KBS2 TV 뮤직뱅크｜매주 금요일 오후 5시에 방송됩니다. #HOT #가요 #가수 #음악 #케이팝 #SEVENTEEN ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/s_3BZLpRgLM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/s_3BZLpRgLM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/s_3BZLpRgLM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "KBS Kpop",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-03T09:36:56Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "h2i-RSm1YROBteyUHIfIcyvlPq8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "YjiNqKR36No"
-      },
-      "snippet": {
-        "publishedAt": "2024-06-20T12:30:21Z",
-        "channelId": "UC_vMyKzPN0q7ZuK0C2Cqf2Q",
-        "title": "[세븐틴/버논] 어머니가 미국인이셔도 번역기 돌린다 | 240614 위버스라이브 #seventeen",
-        "description": "영어 좀 못해도 괜찮은 이유 두번째 - 어머니가 미국인이시고, 미국에서 태어나도 번역기 돌려... 샷아웃투 파파고 240614 버논 위버스 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/YjiNqKR36No/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/YjiNqKR36No/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/YjiNqKR36No/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "따봉세봉",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-06-20T12:30:21Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "OWUwgRBksH0HMWaWzcJse-8kybs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "cbI8tid4H5s"
-      },
-      "snippet": {
-        "publishedAt": "2024-04-17T10:00:07Z",
-        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
-        "title": "BEST OF BEST💎 언제나 완벽한 세븐틴의 데뷔 무대 &#39;아낀다&#39;부터 &#39;음악의 신&#39;까지 무대 몰아보기 | SEVENTEEN Stage Compilation",
-        "description": "언제나 최고의 무대만을 보여주는 #세븐틴 의 완성형 데뷔 무대 '아낀다'부터 무대의 신이 되어버린 '음악의 신'에 이르기까지! 세븐틴 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cbI8tid4H5s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cbI8tid4H5s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cbI8tid4H5s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "KBS Kpop",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-04-17T10:00:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "LMmnq-435fZYJAKuIO6hZ-lDYtY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "QuKb8-9tWv4"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-09T07:08:41Z",
-        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
-        "title": "[𝑲-𝑨𝒍𝒍 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕] 세븐틴(SEVENTEEN) &#39;아낀다&#39; 부터 &#39;손오공&#39;까지 KBS 출연 무대 모음💘 l KBS방송",
-        "description": "00:00 손오공 (뮤직뱅크 2023.04.28) 03:25 F*ck My Life (뮤직뱅크 2023.05.05) 06:45 파이팅 해야지 (Feat. 이영지) - 부석순 (뮤직 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QuKb8-9tWv4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QuKb8-9tWv4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QuKb8-9tWv4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "KBS Kpop",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-09T07:08:41Z"
+        "publishTime": "2024-07-23T14:05:35Z"
       }
     }
   ]
