@@ -13,8 +13,8 @@ export default function VideoDetail() {
           id="ytplayer"
           type="text/html"
           width="100%"
-          height="640"
           title={video.id}
+          className="aspect-video"
           src={`https://www.youtube.com/embed/${video.id}`}
           frameBorder="0"
         />
