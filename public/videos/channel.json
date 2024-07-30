@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channelListResponse",
-  "etag": "ahCbwE3h-dZ46pGvA_d37NS3pAs",
+  "etag": "ToDP4VGgCQ1Jci8SXx3M5BCbi5M",
   "pageInfo": {
     "totalResults": 1,
     "resultsPerPage": 5
@@ -8,35 +8,47 @@
   "items": [
     {
       "kind": "youtube#channel",
-      "etag": "vXzqU0oVDLdk4SQxVthbMCu9y6s",
-      "id": "UCx-KWLTKlB83hDI6UKECtJQ",
+      "etag": "w5dwbNF2G5Imxrlq5UuHfC1ICg0",
+      "id": "UCS_hnpJLQTvBkqALgapi_4g",
       "snippet": {
-        "title": "HBO Max",
-        "description": "HBO Max is the premium streaming platform that bundles together all of HBO with even more of your favorite movies and TV shows from Warner Bros. Discovery, New Line, DC, CNN, TNT, TBS, truTV, Turner Classic Movies, Cartoon Network, Adult Swim, Crunchyroll, Rooster Teeth, Looney Tunes, and much more. Enjoy all of this, plus an exciting lineup of new original programming with Max Originals, all in one place.",
-        "customUrl": "@hbomax",
-        "publishedAt": "2019-07-03T14:47:23Z",
+        "title": "SBSKPOP X INKIGAYO",
+        "description": "'SBSKPOP X INKIGAYO'은 기존의  Inkigayo인기가요 채널의 확장 버전으로 새롭게 태어난 SBS 공식 디지털 KPOP채널입니다.\n\n기존의 인기가요 영상 클립들은 물론, SBS Super concert 등 국내외 케이팝 이벤트의 공식 영상,직캠,미공개 독점 스페셜 영상,\n그리고 '스브스케이팝/SBSKPOP'이 직접 제작한 참신하고 재밌는 ORIGINAL 콘텐츠등을 해외 뿐 아니라 국내 팬들에게도 제공하려 합니다. \n\n그동안 함께 해주신 Inkigayo구독자분들 그리고 새롭게 앞으로 함께 해주실 구독자분들의 많은 사랑을 바랍니다.\n\n\nYou can check out all the special clips and official fancams of super concerts and Inkigayo as well as the clips of kpop stars at the '스브스케이팝/SBSKPOP' channel right now.\n\nSBS 인기가요[Inkigayo] is a k-pop tv program broadcast by SBS. It airs live every Sunday at 3:50 PM KST. \n\nThe show features some of the latest and most popular artists who perform on stage.",
+        "customUrl": "@sbskpop",
+        "publishedAt": "2011-02-17T02:17:55Z",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/TcXFMFkDeUN8pDqZ-2WShXiG6lXtpoRG2kfRMg3Nd9g947mESyRYqlWtwcoy9FyjiiLVLaTd=s88-c-k-c0x00ffffff-no-rj",
+            "url": "https://yt3.ggpht.com/Uxpz5J0EcsFJRbqh4Ip7i3TTNsxTh5jVUxfZmV1DTrCQM_ihfzBGMmkfSRGWoFK9M0anhIie=s88-c-k-c0x00ffffff-no-rj",
             "width": 88,
             "height": 88
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/TcXFMFkDeUN8pDqZ-2WShXiG6lXtpoRG2kfRMg3Nd9g947mESyRYqlWtwcoy9FyjiiLVLaTd=s240-c-k-c0x00ffffff-no-rj",
+            "url": "https://yt3.ggpht.com/Uxpz5J0EcsFJRbqh4Ip7i3TTNsxTh5jVUxfZmV1DTrCQM_ihfzBGMmkfSRGWoFK9M0anhIie=s240-c-k-c0x00ffffff-no-rj",
             "width": 240,
             "height": 240
           },
           "high": {
-            "url": "https://yt3.ggpht.com/TcXFMFkDeUN8pDqZ-2WShXiG6lXtpoRG2kfRMg3Nd9g947mESyRYqlWtwcoy9FyjiiLVLaTd=s800-c-k-c0x00ffffff-no-rj",
+            "url": "https://yt3.ggpht.com/Uxpz5J0EcsFJRbqh4Ip7i3TTNsxTh5jVUxfZmV1DTrCQM_ihfzBGMmkfSRGWoFK9M0anhIie=s800-c-k-c0x00ffffff-no-rj",
             "width": 800,
             "height": 800
           }
         },
         "localized": {
-          "title": "HBO Max",
-          "description": "HBO Max is the premium streaming platform that bundles together all of HBO with even more of your favorite movies and TV shows from Warner Bros. Discovery, New Line, DC, CNN, TNT, TBS, truTV, Turner Classic Movies, Cartoon Network, Adult Swim, Crunchyroll, Rooster Teeth, Looney Tunes, and much more. Enjoy all of this, plus an exciting lineup of new original programming with Max Originals, all in one place."
+          "title": "SBSKPOP X INKIGAYO",
+          "description": "'SBSKPOP X INKIGAYO'은 기존의  Inkigayo인기가요 채널의 확장 버전으로 새롭게 태어난 SBS 공식 디지털 KPOP채널입니다.\n\n기존의 인기가요 영상 클립들은 물론, SBS Super concert 등 국내외 케이팝 이벤트의 공식 영상,직캠,미공개 독점 스페셜 영상,\n그리고 '스브스케이팝/SBSKPOP'이 직접 제작한 참신하고 재밌는 ORIGINAL 콘텐츠등을 해외 뿐 아니라 국내 팬들에게도 제공하려 합니다. \n\n그동안 함께 해주신 Inkigayo구독자분들 그리고 새롭게 앞으로 함께 해주실 구독자분들의 많은 사랑을 바랍니다.\n\n\nYou can check out all the special clips and official fancams of super concerts and Inkigayo as well as the clips of kpop stars at the '스브스케이팝/SBSKPOP' channel right now.\n\nSBS 인기가요[Inkigayo] is a k-pop tv program broadcast by SBS. It airs live every Sunday at 3:50 PM KST. \n\nThe show features some of the latest and most popular artists who perform on stage."
         },
-        "country": "US"
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUS_hnpJLQTvBkqALgapi_4g"
+        }
+      },
+      "statistics": {
+        "viewCount": "6845993931",
+        "subscriberCount": "8100000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "36443"
       }
     }
   ]

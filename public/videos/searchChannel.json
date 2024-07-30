@@ -1,0 +1,352 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "PJZX_XD0niqr1A5sYz3rCnPvMe8",
+  "nextPageToken": "CAoQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 695722,
+    "resultsPerPage": 10
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "blon8_GPQ6NZzgogGkyBYiN0FN4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1u6ExRqWz5A"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-20T10:00:02Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "[여담:餘談 TRIVIA] 아티스트 스테이씨 &#39;세은&#39;에 대한 여담 | STAYC",
+        "description": "[여담:餘談 TRIVIA] 아티스트 스테이씨 '세은'에 대한 여담 | STAYC 무대 뒤의 스테이씨 세은에 대한 짧은 문답들 이들의 진정성이 더 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1u6ExRqWz5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1u6ExRqWz5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1u6ExRqWz5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBSKPOP X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-20T10:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bgu-lsAcc4wE-kw2BtIJXO5cHZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AZ_NHc9zfr0"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-20T05:00:12Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "[4K] 레드벨벳 (Red Velvet)💥데뷔부터 지금까지💥무대 말아드림 | 행복부터 Cosmic 까지",
+        "description": "[4K] 레드벨벳 (Red Velvet)  데뷔부터 지금까지  무대 말아드림 | 행복부터 Cosmic 까지 데뷔부터 지금까지   무대 말아드림 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AZ_NHc9zfr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AZ_NHc9zfr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AZ_NHc9zfr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBSKPOP X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-20T05:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ili251WerOYYbqvq51pN018MJ6A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IwSyBY9nwYY"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-11T08:30:40Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "TAEYONG(태용) - SHALALA(샤랄라) @인기가요 inkigayo 20230611",
+        "description": "TAEYONG - SHALALA #SBSInkigayo_EP1186 태용 - 샤랄라 #TAEYONG #SHALALA SBS Inkigayo(인기가요) is a Korean music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IwSyBY9nwYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IwSyBY9nwYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IwSyBY9nwYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBSKPOP X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-11T08:30:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3TUUqj6ZZuHoWiyc2aLHvjnoJwE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qIcShOeJ-2g"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-11T08:30:08Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "Stray Kids(스트레이 키즈) - S-Class(특) @인기가요 inkigayo 20230611",
+        "description": "Stray Kids - S-Class #SBSInkigayo_EP1186 스트레이 키즈 - 특 #StrayKids #S_Class SBS Inkigayo(인기가요) is a Korean music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qIcShOeJ-2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qIcShOeJ-2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qIcShOeJ-2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBSKPOP X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-11T08:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O0ER-Dhwp1ekAnISGe_szIqcBWw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6mqAqKvB_qk"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-11T08:24:11Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "BLACKSWAN(블랙스완) - Karma @인기가요 inkigayo 20230611",
+        "description": "BLACKSWAN - Karma #SBSInkigayo_EP1186 블랙스완 - Karma #BLACKSWAN #Karma SBS Inkigayo(인기가요) is a Korean ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6mqAqKvB_qk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6mqAqKvB_qk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6mqAqKvB_qk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBSKPOP X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-11T08:24:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MeeisskhIOsgDuty4PyiqnfyWjo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tCXgVgpPT-o"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-08T09:00:36Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "[단독샷캠4K] 스트레이 키즈 &#39;특&#39; 단독샷 별도녹화│Stray Kids &#39;S-Class&#39; ONE TAKE STAGE @SBS Inkigayo 230604",
+        "description": "[단독샷캠4K] 스트레이 키즈 '특' 단독샷 별도녹화│Stray Kids 'S-Class' ONE TAKE STAGE @SBS Inkigayo 230604 (Ft. 스탠다드 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tCXgVgpPT-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tCXgVgpPT-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tCXgVgpPT-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBSKPOP X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-08T09:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2cEu63F2KQ1hx2P8xcU4vThCEV8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HJ33FbHxsH0"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-04T09:51:26Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "G)I-DLE((여자)아이들) - Queencard @인기가요 inkigayo 20230604",
+        "description": "(G)I-DLE - Queencard #SBSInkigayo_EP1185 (여자)아이들 - Queencard #GIDLE #Queencard SBS Inkigayo(인기가요) is a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HJ33FbHxsH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HJ33FbHxsH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HJ33FbHxsH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBSKPOP X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-04T09:51:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hbur__IOAHMtSM3RLo9NdQZMaMY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vi4JW_JfjiU"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-04T09:48:54Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "KARD(카드) - ICKY @인기가요 inkigayo 20230604",
+        "description": "KARD - ICKY #SBSInkigayo_EP1185 카드 - ICKY #KARD #ICKY SBS Inkigayo(인기가요) is a Korean music program broadcast ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vi4JW_JfjiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vi4JW_JfjiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vi4JW_JfjiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBSKPOP X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-04T09:48:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "18h2I8XGC5EZ0cjkloYD0ZrkSdM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iDHl8I0eHfo"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-04T09:49:15Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "ENHYPEN(엔하이픈) - Bite Me @인기가요 inkigayo 20230604",
+        "description": "ENHYPEN - Bite Me #SBSInkigayo_EP1185 엔하이픈 - Bite Me #ENHYPEN #BiteMe SBS Inkigayo(인기가요) is a Korean music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iDHl8I0eHfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iDHl8I0eHfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iDHl8I0eHfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBSKPOP X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-04T09:49:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wfchfZX0y30RR4GDVqGLG0Ia664",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LQxzIbPLBG4"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-01T09:00:18Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "[단독샷캠4K] 엔하이픈 &#39;Bite Me&#39; 단독샷 별도녹화│ENHYPEN ONE TAKE STAGE @SBS Inkigayo 230528",
+        "description": "[단독샷캠4K] 엔하이픈 'Bite Me' 단독샷 별도녹화│ENHYPEN ONE TAKE STAGE @SBS Inkigayo 230528 (Ft. 스탠다드 별도녹화) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LQxzIbPLBG4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LQxzIbPLBG4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LQxzIbPLBG4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBSKPOP X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-01T09:00:18Z"
+      }
+    }
+  ]
+}
