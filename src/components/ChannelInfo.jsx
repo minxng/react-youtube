@@ -6,9 +6,9 @@ export default function ChannelInfo({ id, name }) {
   const { isLoading, data: details } = useQuery({
     queryKey: ["details", id],
     queryFn: () => youtube.getChannelInfo(id),
+    staleTime: 1000 * 60 * 5,
   });
   if (isLoading) return <p>loading...</p>;
-  console.log(details);
   return (
     <div className="flex my-4 mb-8 items-center">
       <img
