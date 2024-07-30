@@ -6,6 +6,9 @@ module.exports = {
       colors: {
         brand: "#FF0000",
       },
+      padding: {
+        "10vw": "5vw",
+      },
     },
   },
   plugins: [],
