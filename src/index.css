@@ -8,12 +8,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  @apply flex flex-col items-center;
+  @apply flex flex-col items-center px-2 md:px-10vw;
   @apply bg-zinc-900 text-gray-50;
 }
 
 #root {
-  @apply w-full max-w-screen-2xl;
+  @apply w-full;
 }
 
 code {
