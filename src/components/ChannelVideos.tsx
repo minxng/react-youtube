@@ -1,7 +1,20 @@
 import { useQuery } from "@tanstack/react-query";
 import { useYoutubeApi } from "../context/YoutubeApiContext";
 import VideoCard from "./VideoCard";
-export default function ChannelVideos({ id }) {
+interface Video {
+  id: string;
+  snippet: {
+    title: string;
+    thumbnails: {
+      medium: {
+        url: string;
+      };
+    };
+    channelTitle: string;
+    publishedAt: string;
+  };
+}
+export default function ChannelVideos({ id }: { id: number }) {
   const { youtube } = useYoutubeApi();
   const {
     isLoading,
@@ -17,7 +30,7 @@ export default function ChannelVideos({ id }) {
       {error && <p>Wrong</p>}
       <ul>
         {videos &&
-          videos.map((video) => <VideoCard video={video} type="list" />)}
+          videos.map((video: Video) => <VideoCard video={video} type="list" />)}
       </ul>
     </>
   );

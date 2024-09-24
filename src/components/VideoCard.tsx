@@ -1,7 +1,27 @@
 import { Link } from "react-router-dom";
 import { formatAgo } from "../util/date";
+import React from "react";
 
-export default function VideoCard({ video, type }) {
+interface Video {
+  id: string;
+  snippet: {
+    title: string;
+    thumbnails: {
+      medium: {
+        url: string;
+      };
+    };
+    channelTitle: string;
+    publishedAt: string;
+  };
+}
+
+interface VideoCardProps {
+  video: Video;
+  type: string | null;
+}
+
+export default function VideoCard({ video, type }: VideoCardProps) {
   const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const isList = type === "list";
   return (

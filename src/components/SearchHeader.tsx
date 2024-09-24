@@ -7,7 +7,7 @@ export default function SearchHeader() {
   const navigate = useNavigate();
   const { keyword } = useParams();
   useEffect(() => setText(keyword || ""), [keyword]);
-  const handleOnSubmit = (e) => {
+  const handleOnSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     navigate(`/videos/${text}`);
   };

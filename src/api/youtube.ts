@@ -1,6 +1,30 @@
 import axios from "axios";
 
+interface YouTubeSearchResult {
+  id: {
+    videoId: string;
+  };
+  snippet: {
+    title: string;
+    description: string;
+    thumbnails: {
+      medium: {
+        url: string;
+      };
+    };
+    channelTitle: string;
+    publishedAt: string;
+  };
+}
+
+interface YouTubeResponse {
+  data: {
+    items: YouTubeSearchResult[];
+  };
+}
+
 export default class Youtube {
+  httpClient: any;
   constructor() {
     // 기본적인 url과 key 설정
     this.httpClient = axios.create({
@@ -9,11 +33,11 @@ export default class Youtube {
     });
   }
 
-  async search(keyword) {
-    return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
+  async search(keyword: string) {
+    return keyword ? this.searchByKeyword(keyword) : this.mostPopular();
   }
 
-  async #searchByKeyword(keyword) {
+  private async searchByKeyword(keyword: string) {
     return this.httpClient
       .get("search", {
         params: {
@@ -23,12 +47,12 @@ export default class Youtube {
           q: keyword,
         },
       })
-      .then((res) =>
+      .then((res: YouTubeResponse) =>
         res.data.items.map((item) => ({ ...item, id: item.id.videoId }))
       );
   }
 
-  async #mostPopular() {
+  private async mostPopular() {
     return this.httpClient
       .get("videos", {
         params: {
@@ -39,10 +63,10 @@ export default class Youtube {
           regionCode: "KR",
         },
       })
-      .then((res) => res.data.items);
+      .then((res: YouTubeResponse) => res.data.items);
   }
 
-  async getChannelInfo(channel_id) {
+  async getChannelInfo(channel_id: number) {
     return this.httpClient
       .get("channels", {
         params: {
@@ -50,10 +74,10 @@ export default class Youtube {
           id: channel_id,
         },
       })
-      .then((res) => res.data.items[0]);
+      .then((res: YouTubeResponse) => res.data.items[0]);
   }
 
-  async searchChannel(channel_id) {
+  async searchChannel(channel_id: number) {
     return this.httpClient
       .get("search", {
         params: {
@@ -64,6 +88,8 @@ export default class Youtube {
           order: "date",
         },
       })
-      .then((res) => res.data.items.map((item) => ({ ...item })));
+      .then((res: YouTubeResponse) =>
+        res.data.items.map((item) => ({ ...item }))
+      );
   }
 }

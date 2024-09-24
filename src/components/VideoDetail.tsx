@@ -1,6 +1,7 @@
 import { useLocation } from "react-router-dom";
-import ChannelInfo from "./ChannelInfo";
-import ChannelVideos from "./ChannelVideos";
+import ChannelInfo from "./ChannelInfo.tsx";
+import ChannelVideos from "./ChannelVideos.tsx";
+import React from "react";
 
 export default function VideoDetail() {
   const video = useLocation().state;
@@ -11,7 +12,6 @@ export default function VideoDetail() {
       <article className="basis-4/6">
         <iframe
           id="ytplayer"
-          type="text/html"
           width="100%"
           title={video.id}
           className="aspect-video"

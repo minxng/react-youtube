@@ -1,13 +1,36 @@
 import axios from "axios";
 
+interface YouTubeSearchResult {
+  id: {
+    videoId: string;
+  };
+  snippet: {
+    title: string;
+    description: string;
+    thumbnails: {
+      medium: {
+        url: string;
+      };
+    };
+    channelTitle: string;
+    publishedAt: string;
+  };
+}
+
+interface YouTubeResponse {
+  data: {
+    items: YouTubeSearchResult[];
+  };
+}
+
 export default class FakeYoutube {
-  async search(keyword) {
-    return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
+  async search(keyword: string) {
+    return keyword ? this.#searchByKeyword() : this.#mostPopular();
   }
   async #searchByKeyword() {
     return axios
       .get(`/videos/search.json`)
-      .then((res) => res.data.items)
+      .then((res: YouTubeResponse) => res.data.items)
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
 
@@ -21,7 +44,7 @@ export default class FakeYoutube {
   async searchChannel() {
     return axios
       .get("/videos/searchChannel.json")
-      .then((res) => res.data.items)
+      .then((res: YouTubeResponse) => res.data.items)
       .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
   }
 }

@@ -1,5 +1,5 @@
 import { createContext, useContext } from "react";
-import Youtube from "../api/youtube";
+import Youtube from "../api/youtube.ts";
 
 export const YoutubeApiContext = createContext();
 
