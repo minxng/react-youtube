@@ -17,15 +17,15 @@ export default function SearchHeader() {
         <BsYoutube className="text-4xl text-brand" />
         <h1 className="font-bold ml-2 text-3xl">Youtube</h1>
       </Link>
-      <form className="w-full flex justify-center" onSubmit={handleOnSubmit}>
+      <form className="w-full flex justify-center " onSubmit={handleOnSubmit}>
         <input
-          className="w-7/12 p-2 outline-none bg-black text-gray-50"
+          className="w-7/12 p-2 outline-none text-zinc-900"
           type="text"
           placeholder="Search..."
           value={text}
           onChange={(e) => setText(e.target.value)}
         />
-        <button className="bg-zinc-600 px-4 ">
+        <button className="px-4 ">
           <BsSearch />
         </button>
       </form>

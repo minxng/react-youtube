@@ -8,8 +8,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  @apply flex flex-col items-center px-2 md:px-10vw;
-  @apply bg-zinc-900 text-gray-50;
+  background-color: #fff;
+  color: #000;
+  @apply px-2 md:px-10vw;
 }
 
 #root {
