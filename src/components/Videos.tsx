@@ -16,6 +16,9 @@ interface Video {
     channelTitle: string;
     publishedAt: string;
   };
+  statistics: {
+    viewCount: string;
+  };
 }
 
 export default function Videos() {

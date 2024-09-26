@@ -13,6 +13,9 @@ interface Video {
     channelTitle: string;
     publishedAt: string;
   };
+  statistics: {
+    viewCount: string;
+  };
 }
 export default function ChannelVideos({ id }: { id: number }) {
   const { youtube } = useYoutubeApi();

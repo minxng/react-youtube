@@ -41,7 +41,7 @@ export default class Youtube {
     return this.httpClient
       .get("search", {
         params: {
-          part: "snippet",
+          part: "snippet,statistics",
           maxResults: 25,
           type: "video",
           q: keyword,
@@ -56,7 +56,7 @@ export default class Youtube {
     return this.httpClient
       .get("videos", {
         params: {
-          part: "snippet",
+          part: "snippet,statistics",
           maxResults: 25,
           type: "video",
           chart: "mostPopular",
@@ -81,7 +81,7 @@ export default class Youtube {
     return this.httpClient
       .get("search", {
         params: {
-          part: "snippet",
+          part: "snippet,statistics",
           maxResults: 10,
           type: "video",
           channelId: channel_id,
