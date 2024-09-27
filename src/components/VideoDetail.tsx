@@ -18,10 +18,12 @@ export default function VideoDetail() {
           src={`https://www.youtube.com/embed/${video.id}`}
           frameBorder="0"
         />
-        <div className="p-8">
+        <div className="py-2">
           <h2 className="text-xl font-bold">{title}</h2>
           <ChannelInfo id={channelId} name={channelTitle} />
-          <pre className="whitespace-pre-wrap">{description}</pre>
+          <pre className="whitespace-pre-wrap bg-zinc-100 rounded-md p-4">
+            {description}
+          </pre>
         </div>
       </article>
       <section className="basis-2/6">
