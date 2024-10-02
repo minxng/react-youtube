@@ -19,7 +19,7 @@ export default function ChannelInfo({ id, name }: Channel) {
     <div className="flex my-4 mb-8 items-center">
       <img
         className="rounded-full w-10 h-10"
-        src={details.snippet.thumbnails.default.url}
+        src={details.default.url}
         alt="채널 이미지"
       />
       <p className="text-lg font-medium ml-2">{name}</p>

@@ -5,6 +5,7 @@ interface Video {
   id: string;
   snippet: {
     title: string;
+    channelId: string;
     thumbnails: {
       medium: {
         url: string;
@@ -16,6 +17,7 @@ interface Video {
   statistics: {
     viewCount: string;
   };
+  channel_img?: { default: { url: string } };
 }
 export default function ChannelVideos({ id }: { id: number }) {
   const { youtube } = useYoutubeApi();

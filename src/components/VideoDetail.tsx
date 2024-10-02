@@ -6,16 +6,16 @@ import React from "react";
 export default function VideoDetail() {
   const video = useLocation().state;
   const { title, description, channelId, channelTitle } = video.snippet;
-  console.log(video, "videp");
+  const video_id = typeof video.id === "object" ? video.id.videoId : video.id;
   return (
     <section className="flex flex-col lg:flex-row gap-x-6">
       <article className="basis-4/6">
         <iframe
           id="ytplayer"
           width="100%"
-          title={video.id}
+          title={video_id}
           className="aspect-video"
-          src={`https://www.youtube.com/embed/${video.id}`}
+          src={`https://www.youtube.com/embed/${video_id}`}
           frameBorder="0"
         />
         <div className="py-2">
