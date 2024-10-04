@@ -18,7 +18,11 @@ interface Video {
     viewCount: string;
   };
   viewCount?: string;
-  channel_img?: { default: { url: string } };
+  channel_img?: {
+    thumbnail: {
+      default: { url: string };
+    };
+  };
 }
 
 interface VideoCardProps {
@@ -43,7 +47,7 @@ export default function VideoCard({ video, type }: VideoCardProps) {
     <Link to={`/videos/watch/${video_id}`} state={video}>
       <li className={isList ? "flex gap-1 m-2" : ""}>
         <img
-          className={`${isList ? "w-60 mr-2" : "w-full"} rounded-lg`}
+          className={`${isList ? "w-48 mr-2" : "w-full"} rounded-lg`}
           src={thumbnails.medium.url}
           alt="동영상 썸네일"
         />
@@ -51,18 +55,25 @@ export default function VideoCard({ video, type }: VideoCardProps) {
           {video.channel_img ? (
             <img
               className="rounded-full w-10 h-10"
-              src={video.channel_img?.default.url}
+              src={video.channel_img?.thumbnail.default.url}
               alt="채널 이미지"
             />
           ) : null}
           <div className="flex flex-col gap-1">
-            <p className="text-ellipsis line-clamp-2">{title}</p>
-
-            <p className="text-sm opacity-80">{channelTitle}</p>
-            <p className="text-sm opacity-80">
-              {compactNumber(Number(view_count))}회
-              {formatAgo(publishedAt, "ko")}{" "}
+            <p
+              className={`text-ellipsis line-clamp-2 ${
+                isList ? "text-sm" : ""
+              }`}
+            >
+              {title}
             </p>
+            <div className={`text-gray ${isList ? "text-xs" : "text-sm"}`}>
+              <p>{channelTitle}</p>
+              <p>
+                조회수 {compactNumber(Number(view_count))}회 •
+                <span className="px-1">{formatAgo(publishedAt, "ko")}</span>
+              </p>
+            </div>
           </div>
         </div>
       </li>

@@ -17,7 +17,11 @@ interface Video {
   statistics: {
     viewCount: string;
   };
-  channel_img?: { default: { url: string } };
+  channel_img?: {
+    thumbnail: {
+      default: { url: string };
+    };
+  };
 }
 export default function ChannelVideos({ id }: { id: number }) {
   const { youtube } = useYoutubeApi();
@@ -35,7 +39,9 @@ export default function ChannelVideos({ id }: { id: number }) {
       {error && <p>Wrong</p>}
       <ul>
         {videos &&
-          videos.map((video: Video) => <VideoCard video={video} type="list" />)}
+          videos.map((video: Video, index: number) => (
+            <VideoCard video={video} type="list" key={index} />
+          ))}
       </ul>
     </>
   );
