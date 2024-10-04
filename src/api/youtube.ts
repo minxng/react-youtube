@@ -17,6 +17,7 @@ interface YouTubeSearchResult {
     publishedAt: string;
   };
   statistics: {
+    subscriberCount: string;
     viewCount: string;
   };
 }
@@ -37,17 +38,17 @@ export default class Youtube {
     });
   }
 
-  async search(keyword: string, page_token?: string) {
+  async search(page_token: string | null, keyword: string) {
     return keyword
       ? this.searchByKeyword(keyword, page_token)
       : this.mostPopular(page_token);
   }
 
-  private async searchByKeyword(keyword: string, page_token?: string) {
+  private async searchByKeyword(keyword: string, page_token: string | null) {
     const res = await this.httpClient.get("search", {
       params: {
         part: "snippet",
-        maxResults: 25,
+        maxResults: 24,
         type: "video",
         q: keyword,
         pageToken: page_token,
@@ -55,20 +56,34 @@ export default class Youtube {
     });
 
     const itemsWithViewCount = await Promise.all(
-      res.data.items.map(async (item: { id: { videoId: string } }) => {
-        const viewCount = await this.getViewCount(item.id.videoId);
-        return { ...item, id: item.id.videoId, viewCount: viewCount };
-      })
+      res.data.items.map(
+        async (item: {
+          snippet: { channelId: string };
+          id: { videoId: string };
+        }) => {
+          const viewCount = await this.getViewCount(item.id.videoId);
+          const channelImg = await this.getChannelInfo(item.snippet.channelId);
+          return {
+            ...item,
+            id: item.id.videoId,
+            viewCount: viewCount,
+            channel_img: channelImg,
+          };
+        }
+      )
     );
-    return itemsWithViewCount;
+    return {
+      ...res.data,
+      items: itemsWithViewCount,
+    };
   }
 
-  private async mostPopular(page_token?: string) {
+  private async mostPopular(page_token: string | null) {
     return this.httpClient
       .get("videos", {
         params: {
           part: "snippet,statistics,contentDetails",
-          maxResults: 25,
+          maxResults: 24,
           type: "video",
           chart: "mostPopular",
           regionCode: "KR",
@@ -84,30 +99,35 @@ export default class Youtube {
             })
           );
         });
-        return Promise.all(data);
+        return Promise.all(data).then((items) => ({
+          ...res.data,
+          items: items,
+        }));
       });
   }
 
-  // 채널 썸네일
   async getChannelInfo(channel_id: string) {
     return this.httpClient
       .get("channels", {
         params: {
-          part: "snippet",
+          part: "snippet, statistics",
           id: channel_id,
         },
       })
       .then((res: YouTubeResponse) => {
-        return res.data.items[0].snippet.thumbnails;
+        return {
+          subscriber_count: res.data.items[0].statistics.subscriberCount,
+          view_count: res.data.items[0].statistics.viewCount,
+          thumbnail: res.data.items[0].snippet.thumbnails,
+        };
       });
   }
 
-  // 해당 채널의 동영상
   async searchChannel(channel_id: number) {
     const res = await this.httpClient.get("search", {
       params: {
         part: "snippet",
-        maxResults: 10, // 추후 20으로 수정하기
+        maxResults: 10,
         type: "video",
         channelId: channel_id,
         order: "date",
