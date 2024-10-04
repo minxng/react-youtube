@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       colors: {
         brand: "#FF0000",
+        gray: "#606060",
       },
       padding: {
         "10vw": "5vw",
