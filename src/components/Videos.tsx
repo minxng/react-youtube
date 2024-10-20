@@ -59,7 +59,7 @@ export default function Videos() {
     if (inView && !isFetchingNextPage) {
       fetchNextPage();
     }
-  }, [inView]);
+  }, [fetchNextPage, inView, isFetchingNextPage]);
 
   return (
     <div>
