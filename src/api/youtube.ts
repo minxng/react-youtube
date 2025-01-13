@@ -19,6 +19,7 @@ interface YouTubeSearchResult {
   statistics: {
     subscriberCount: string;
     viewCount: string;
+    likeCount: string;
   };
 }
 
@@ -61,12 +62,15 @@ export default class Youtube {
           snippet: { channelId: string };
           id: { videoId: string };
         }) => {
-          const viewCount = await this.getViewCount(item.id.videoId);
+          const counts = await this.getCounts(item.id.videoId);
           const channelImg = await this.getChannelInfo(item.snippet.channelId);
           return {
             ...item,
             id: item.id.videoId,
-            viewCount: viewCount,
+            statistics: {
+              viewCount: counts.view_count,
+              likeCount: counts.like_count,
+            },
             channel_img: channelImg,
           };
         }
@@ -136,7 +140,7 @@ export default class Youtube {
 
     const itemsWithViewCount = await Promise.all(
       res.data.items.map(async (item: { id: { videoId: string } }) => {
-        const viewCount = await this.getViewCount(item.id.videoId);
+        const viewCount = (await this.getCounts(item.id.videoId)).view_count;
         return {
           ...item,
           channel_img: null,
@@ -148,7 +152,7 @@ export default class Youtube {
     return itemsWithViewCount;
   }
 
-  async getViewCount(id: string) {
+  async getCounts(id: string) {
     const res = await this.httpClient.get("videos", {
       params: {
         id: id,
@@ -158,6 +162,9 @@ export default class Youtube {
         regionCode: "KR",
       },
     });
-    return res.data.items[0].statistics.viewCount;
+    return {
+      view_count: res.data.items[0].statistics.viewCount,
+      like_count: res.data.items[0].statistics.likeCount,
+    };
   }
 }
