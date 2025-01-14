@@ -140,11 +140,14 @@ export default class Youtube {
 
     const itemsWithViewCount = await Promise.all(
       res.data.items.map(async (item: { id: { videoId: string } }) => {
-        const viewCount = (await this.getCounts(item.id.videoId)).view_count;
+        const counts = await this.getCounts(item.id.videoId);
         return {
           ...item,
           channel_img: null,
-          viewCount,
+          statistics: {
+            viewCount: counts.view_count,
+            likeCount: counts.like_count,
+          },
         };
       })
     );
