@@ -2,8 +2,10 @@ import { useLocation } from "react-router-dom";
 import ChannelInfo from "./ChannelInfo.tsx";
 import ChannelVideos from "./ChannelVideos.tsx";
 import { PiThumbsUp, PiThumbsDown } from "react-icons/pi";
+import { useState } from "react";
 
 export default function VideoDetail() {
+  const [open, setOpen] = useState(false);
   const video = useLocation().state;
   const { title, description, channelId, channelTitle } = video.snippet;
   const video_id = typeof video.id === "object" ? video.id.videoId : video.id;
@@ -40,11 +42,27 @@ export default function VideoDetail() {
               </button>
             </div>
           </div>
-          <pre className="whitespace-pre-wrap bg-zinc-100 rounded-md p-4">
-            조회수 {Number(video.statistics.viewCount).toLocaleString()}회{" "}
-            <br />
-            {description}
-          </pre>
+          <div
+            className={`p-4 bg-zinc-100 rounded-md items-end ${
+              !open && "flex"
+            }`}
+          >
+            <pre
+              className={`whitespace-pre-wrap leading-6 break-keep ${
+                !open && "line-clamp-5"
+              }`}
+            >
+              조회수 {Number(video.statistics.viewCount).toLocaleString()}회{" "}
+              <br />
+              {description}
+            </pre>
+            <button
+              onClick={() => setOpen(() => !open)}
+              className="text-sm bg-none underline decoration-1"
+            >
+              {open ? "간략히" : "더보기"}
+            </button>
+          </div>
         </div>
       </article>
       <section className="basis-2/6">
